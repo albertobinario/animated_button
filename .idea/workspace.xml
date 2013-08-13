@@ -4,8 +4,8 @@
     <list default="true" id="be961356-ad66-4726-a1b5-a0af55b10574" name="Default" comment="" />
     <ignored path="animated_button.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="be961356-ad66-4726-a1b5-a0af55b10574" time="1376419185169" ignored="false" />
-    <file path="/styles.css" changelist="be961356-ad66-4726-a1b5-a0af55b10574" time="1376420037094" ignored="false" />
+    <file path="/index.html" changelist="be961356-ad66-4726-a1b5-a0af55b10574" time="1376422009234" ignored="false" />
+    <file path="/styles.css" changelist="be961356-ad66-4726-a1b5-a0af55b10574" time="1376422041441" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,19 +25,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="68" selection-start="669" selection-end="669" vertical-scroll-proportion="-11.25">
+            <state line="14" column="12" selection-start="492" selection-end="492" vertical-scroll-proportion="0.32307693">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="1" selection-start="761" selection-end="761" vertical-scroll-proportion="0.8546042">
+            <state line="26" column="16" selection-start="472" selection-end="472" vertical-scroll-proportion="-7.090909">
               <folding />
             </state>
           </provider>
@@ -53,8 +53,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/styles.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -247,16 +247,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="68" selection-start="669" selection-end="669" vertical-scroll-proportion="-11.25">
+        <state line="26" column="16" selection-start="472" selection-end="472" vertical-scroll-proportion="-7.090909">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="1" selection-start="761" selection-end="761" vertical-scroll-proportion="0.8546042">
+        <state line="14" column="12" selection-start="492" selection-end="492" vertical-scroll-proportion="0.32307693">
           <folding />
         </state>
       </provider>
