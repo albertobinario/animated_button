@@ -33,3 +33,17 @@ h1 {
 h2 {
     color: #294052;
 }
+
+#modifiedbutton {
+    border: 1px solid #F4D6BC;
+    background-color: #8FBCDB;
+    background-image: url("dancing_cute_cat.gif");
+    background-repeat: no-repeat;
+    background-size: 40px;
+    color: #EEE;
+    font-size: 16px;
+    font-family: Times;
+    height: 45px;
+    text-align: right;
+    width: 150px;
+}

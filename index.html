@@ -7,7 +7,7 @@
 	</head>
 	<body>
         <h1>Examples</h1>
-        <h2>Animated picture in button</h2>
+        <h2>Animated picture in button (DIV with FIGURE and P)</h2>
         <!-- Instead of a button, create a div container-->
         <div id="animatedbutton" onclick="alert('Thank you');">
             <figure>
@@ -15,6 +15,8 @@
             </figure>
             <p>Click on me!</p>
         </div>
+        <h2>Animated picture in button (INPUT)</h2>
+        <input type="button" id="modifiedbutton" value="Click on me!" onclick="alert('Thank you');">
         <script>
             document.getElementById("animatedbutton").style.cursor = 'pointer';
         </script>
