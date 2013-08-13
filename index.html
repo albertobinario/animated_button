@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+        <link rel="stylesheet" href="styles.css" />
+		<title>Example: Animated picture in button</title>
+	</head>
+	<body>
+        <h1>Examples</h1>
+        <h2>Animated picture in button</h2>
+        <!-- Instead of a button, create a div container-->
+        <div id="animatedbutton" onclick="alert('Thank you');">
+            <figure>
+                <img src="dancing_cute_cat.gif" />
+            </figure>
+            <p>Click on me!</p>
+        </div>
+        <script>
+            document.getElementById("animatedbutton").style.cursor = 'pointer';
+        </script>
+	</body>
+</html>
